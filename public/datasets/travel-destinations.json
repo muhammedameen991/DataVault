@@ -1,0 +1,53 @@
+{
+  "title": "Popular Travel Destinations in India",
+  "destinations": [
+    {
+      "name": "Munnar",
+      "state": "Kerala",
+      "type": "Hill Station",
+      "bestSeason": "October to March",
+      "attractions": ["Tea Plantations", "Eravikulam National Park", "Mattupetty Dam", "Anamudi Peak"],
+      "nearestAirport": "Cochin International Airport (COK)"
+    },
+    {
+      "name": "Alleppey (Alappuzha)",
+      "state": "Kerala",
+      "type": "Backwaters",
+      "bestSeason": "November to February",
+      "attractions": ["Houseboat Cruises", "Vembanad Lake", "Marari Beach", "Kuttanad Farming"],
+      "nearestAirport": "Cochin International Airport (COK)"
+    },
+    {
+      "name": "Varanasi",
+      "state": "Uttar Pradesh",
+      "type": "Heritage / Spiritual",
+      "bestSeason": "November to March",
+      "attractions": ["Ganga Aarti", "Dashashwamedh Ghat", "Kashi Vishwanath Temple", "Sarnath"],
+      "nearestAirport": "Lal Bahadur Shastri Airport (VNS)"
+    },
+    {
+      "name": "Jaipur",
+      "state": "Rajasthan",
+      "type": "Historic / Culture",
+      "bestSeason": "October to March",
+      "attractions": ["Amber Fort", "Hawa Mahal", "City Palace", "Jantar Mantar"],
+      "nearestAirport": "Jaipur International Airport (JAI)"
+    },
+    {
+      "name": "Leh Ladakh",
+      "state": "Ladakh (UT)",
+      "type": "Adventure / High Altitude",
+      "bestSeason": "May to September",
+      "attractions": ["Pangong Tso", "Nubra Valley", "Khardung La Pass", "Thiksey Monastery"],
+      "nearestAirport": "Kushok Bakula Rimpochee Airport (IXL)"
+    },
+    {
+      "name": "Goa Beaches",
+      "state": "Goa",
+      "type": "Coastal / Leisure",
+      "bestSeason": "November to February",
+      "attractions": ["Palolem Beach", "Anjuna Flea Market", "Fort Aguada", "Dudhsagar Falls"],
+      "nearestAirport": "Goa Dabolim Airport (GOI) / Mopa (GOX)"
+    }
+  ]
+}

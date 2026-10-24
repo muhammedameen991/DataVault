@@ -1,0 +1,169 @@
+{
+  "state": "Kerala",
+  "districts": [
+    "Thiruvananthapuram",
+    "Kollam",
+    "Pathanamthitta",
+    "Alappuzha",
+    "Kottayam",
+    "Idukki",
+    "Ernakulam",
+    "Thrissur",
+    "Palakkad",
+    "Malappuram",
+    "Kozhikode",
+    "Wayanad",
+    "Kannur",
+    "Kasaragod"
+  ],
+  "capital": "Thiruvananthapuram",
+  "totalDistricts": 14,
+  "stateAnimal": "Indian Elephant",
+  "stateBird": "Great Hornbill",
+  "stateTree": "Coconut Tree",
+  "stateFlower": "Kanikkonna (Cassia fistula)",
+  "officialLanguage": "Malayalam",
+  "literacyRate": "96.2%",
+  "details": [
+    {
+      "code": "KL-01",
+      "name": "Thiruvananthapuram",
+      "headquarters": "Thiruvananthapuram",
+      "population": 3301427,
+      "area_sq_km": 2192,
+      "density_sq_km": 1509,
+      "literacy_rate": "93.02%",
+      "taluks": ["Neyyattinkara", "Kattakada", "Nedumangad", "Thiruvananthapuram", "Chirayinkeezhu", "Varkala"]
+    },
+    {
+      "code": "KL-02",
+      "name": "Kollam",
+      "headquarters": "Kollam",
+      "population": 2635375,
+      "area_sq_km": 2491,
+      "density_sq_km": 1061,
+      "literacy_rate": "94.09%",
+      "taluks": ["Kollam", "Kunnathur", "Karunagappally", "Kottarakkara", "Pathanapuram", "Punalur"]
+    },
+    {
+      "code": "KL-03",
+      "name": "Pathanamthitta",
+      "headquarters": "Pathanamthitta",
+      "population": 1197412,
+      "area_sq_km": 2637,
+      "density_sq_km": 453,
+      "literacy_rate": "96.55%",
+      "taluks": ["Adoor", "Konni", "Kozhencherry", "Ranni", "Mallappally", "Thiruvalla"]
+    },
+    {
+      "code": "KL-04",
+      "name": "Alappuzha",
+      "headquarters": "Alappuzha",
+      "population": 2127789,
+      "area_sq_km": 1414,
+      "density_sq_km": 1504,
+      "literacy_rate": "95.72%",
+      "taluks": ["Ambalappuzha", "Chengannur", "Cherthala", "Karthikappally", "Kuttanad", "Mavelikkara"]
+    },
+    {
+      "code": "KL-05",
+      "name": "Kottayam",
+      "headquarters": "Kottayam",
+      "population": 1974551,
+      "area_sq_km": 2208,
+      "density_sq_km": 896,
+      "literacy_rate": "97.21%",
+      "taluks": ["Changanasserry", "Kanjirappally", "Kottayam", "Meenachil", "Vaikom"]
+    },
+    {
+      "code": "KL-06",
+      "name": "Idukki",
+      "headquarters": "Painavu",
+      "population": 1108974,
+      "area_sq_km": 4358,
+      "density_sq_km": 255,
+      "literacy_rate": "91.99%",
+      "taluks": ["Devikulam", "Peermade", "Udumbanchola", "Idukki", "Thodupuzha"]
+    },
+    {
+      "code": "KL-07",
+      "name": "Ernakulam",
+      "headquarters": "Kakkanad",
+      "population": 3282388,
+      "area_sq_km": 3068,
+      "density_sq_km": 1072,
+      "literacy_rate": "95.89%",
+      "taluks": ["Aluva", "Kanayannur", "Kochi", "Kothamangalam", "Kunnathunad", "Muvattupuzha", "Paravur"]
+    },
+    {
+      "code": "KL-08",
+      "name": "Thrissur",
+      "headquarters": "Thrissur",
+      "population": 3121200,
+      "area_sq_km": 3032,
+      "density_sq_km": 1031,
+      "literacy_rate": "95.08%",
+      "taluks": ["Chalakudy", "Chavakkad", "Kodungallur", "Mukundapuram", "Thalapilly", "Thrissur", "Kunnamkulam"]
+    },
+    {
+      "code": "KL-09",
+      "name": "Palakkad",
+      "headquarters": "Palakkad",
+      "population": 2809934,
+      "area_sq_km": 4480,
+      "density_sq_km": 627,
+      "literacy_rate": "89.31%",
+      "taluks": ["Alathur", "Chittur", "Mannarkkad", "Ottappalam", "Palakkad", "Pattambi", "Attappady"]
+    },
+    {
+      "code": "KL-10",
+      "name": "Malappuram",
+      "headquarters": "Malappuram",
+      "population": 4112920,
+      "area_sq_km": 3550,
+      "density_sq_km": 1157,
+      "literacy_rate": "93.57%",
+      "taluks": ["Ernad", "Kondotty", "Nilambur", "Perinthalmanna", "Ponnani", "Tirur", "Tirurangadi"]
+    },
+    {
+      "code": "KL-11",
+      "name": "Kozhikode",
+      "headquarters": "Kozhikode",
+      "population": 3086293,
+      "area_sq_km": 2344,
+      "density_sq_km": 1318,
+      "literacy_rate": "95.50%",
+      "taluks": ["Kozhikode", "Thamarassery", "Koyilandy", "Vatakara"]
+    },
+    {
+      "code": "KL-12",
+      "name": "Wayanad",
+      "headquarters": "Kalpetta",
+      "population": 817420,
+      "area_sq_km": 2131,
+      "density_sq_km": 384,
+      "literacy_rate": "89.03%",
+      "taluks": ["Mananthavady", "Sultan Bathery", "Vythiri"]
+    },
+    {
+      "code": "KL-13",
+      "name": "Kannur",
+      "headquarters": "Kannur",
+      "population": 2523003,
+      "area_sq_km": 2966,
+      "density_sq_km": 852,
+      "literacy_rate": "95.10%",
+      "taluks": ["Thalassery", "Iritty", "Kannur", "Taliparamba", "Payyanur"]
+    },
+    {
+      "code": "KL-14",
+      "name": "Kasaragod",
+      "headquarters": "Kasaragod",
+      "population": 1307375,
+      "area_sq_km": 1992,
+      "density_sq_km": 657,
+      "literacy_rate": "90.09%",
+      "taluks": ["Manjeshwaram", "Kasaragod", "Vellarikundu", "Hosdurg"]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "DataVault",
+  "description": "Public Data Sharing Platform - Discover, preview, publish, and download publicly available datasets and files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

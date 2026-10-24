@@ -1,0 +1,27 @@
+# DataVault Public Archive — Open Source Software Catalog
+# License: MIT Open Source Directory
+# Last Synchronized: 2025-04-20
+
+[WEB FRAMEWORKS]
+- React (Meta Open Source) | License: MIT | Language: JavaScript/TypeScript | Repo: github.com/facebook/react
+- Vue.js (Evan You & Community) | License: MIT | Language: TypeScript | Repo: github.com/vuejs/core
+- Svelte (Svelte Team) | License: MIT | Language: TypeScript | Repo: github.com/sveltejs/svelte
+- Next.js (Vercel) | License: MIT | Language: TypeScript | Repo: github.com/vercel/next.js
+- Astro (Astro Technology Company) | License: MIT | Language: TypeScript | Repo: github.com/withastro/astro
+
+[SYSTEMS & RUNTIMES]
+- Linux Kernel (Linus Torvalds & Contributors) | License: GPLv2 | Language: C | Repo: kernel.org
+- Node.js (OpenJS Foundation) | License: MIT | Language: C++/JavaScript | Repo: github.com/nodejs/node
+- Bun (Jarred Sumner) | License: MIT | Language: Zig/C++ | Repo: github.com/oven-sh/bun
+- Rust Compiler (Rust Foundation) | License: Apache 2.0 / MIT | Language: Rust | Repo: github.com/rust-lang/rust
+
+[DATABASES & CACHING]
+- PostgreSQL (PostgreSQL Global Development Group) | License: PostgreSQL License | Language: C | Repo: git.postgresql.org
+- SQLite (D. Richard Hipp) | License: Public Domain | Language: C | Repo: sqlite.org
+- Redis (Redis Ltd / Valkey Project) | License: BSD-3-Clause | Language: C | Repo: github.com/valkey-io/valkey
+- DuckDB (DuckDB Foundation) | License: MIT | Language: C++ | Repo: github.com/duckdb/duckdb
+
+[AI & DATA SCIENCE]
+- PyTorch (Linux Foundation AI) | License: Modified BSD | Language: Python/C++ | Repo: github.com/pytorch/pytorch
+- Scikit-Learn (Community) | License: BSD-3-Clause | Language: Python/Cython | Repo: github.com/scikit-learn/scikit-learn
+- Polars (Polars Team) | License: MIT | Language: Rust/Python | Repo: github.com/pola-rs/polars

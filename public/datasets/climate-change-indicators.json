@@ -1,0 +1,24 @@
+{
+  "title": "Global Climate Change Indicators",
+  "basePeriod": "1951-1980 baseline",
+  "lastUpdated": "2025-03-01",
+  "globalMeanTemperatureAnomaly_C": 1.18,
+  "atmosphericCO2_ppm": 424.55,
+  "seaLevelRiseSince1993_mm": 103.4,
+  "arcticIceExtentMin_million_sq_km": 4.23,
+  "oceanHeatContentZJ": 345.2,
+  "recentObservations": [
+    { "year": 2018, "tempAnomaly": 0.85, "co2ppm": 408.52, "seaLevelAnomaly_mm": 84.1 },
+    { "year": 2019, "tempAnomaly": 0.98, "co2ppm": 411.44, "seaLevelAnomaly_mm": 87.6 },
+    { "year": 2020, "tempAnomaly": 1.02, "co2ppm": 414.24, "seaLevelAnomaly_mm": 91.3 },
+    { "year": 2021, "tempAnomaly": 0.84, "co2ppm": 416.45, "seaLevelAnomaly_mm": 94.7 },
+    { "year": 2022, "tempAnomaly": 0.89, "co2ppm": 418.56, "seaLevelAnomaly_mm": 97.2 },
+    { "year": 2023, "tempAnomaly": 1.17, "co2ppm": 421.08, "seaLevelAnomaly_mm": 100.8 },
+    { "year": 2024, "tempAnomaly": 1.28, "co2ppm": 424.55, "seaLevelAnomaly_mm": 103.4 }
+  ],
+  "greenhouseGases": {
+    "carbonDioxide": { "formula": "CO2", "currentPPM": 424.55, "preIndustrialPPM": 280.0 },
+    "methane": { "formula": "CH4", "currentPPB": 1928.0, "preIndustrialPPB": 722.0 },
+    "nitrousOxide": { "formula": "N2O", "currentPPB": 336.8, "preIndustrialPPB": 270.0 }
+  }
+}
